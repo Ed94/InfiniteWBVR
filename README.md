@@ -14,3 +14,7 @@ Authors:
 - Andres Salinas
 - Matthew Garcia
 
+
+This is just a fork for my portfolio please visit: https://github.com/Haczar/InfiniteWBVR
+
+For the offical repo.
