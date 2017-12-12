@@ -15,6 +15,4 @@ Authors:
 - Matthew Garcia
 
 
-This is just a fork for my portfolio please visit: https://github.com/Haczar/InfiniteWBVR
-
-For the offical repo.
+This is just a fork for my portfolio please visit: https://github.com/Haczar/InfiniteWBVR for the offical repo.
